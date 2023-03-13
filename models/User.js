@@ -18,6 +18,7 @@ const userSchema = new mongoose.Schema({
 })
 
 //small change
+//small change 2
 
 // //fire a function after doc saved to database
 // userSchema.post('save', function (doc, next) {
